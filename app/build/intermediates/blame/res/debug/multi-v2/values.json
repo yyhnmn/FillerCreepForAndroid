@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\cmput301\\lab1\\FillerCreepForAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "/afs/ualberta.ca/home/y/u/yuhan1/Desktop/CMPUT301Fall2018/FillerCreepForAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "D:\\cmput301\\lab1\\FillerCreepForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "/afs/ualberta.ca/home/y/u/yuhan1/Desktop/CMPUT301Fall2018/FillerCreepForAndroid/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "4,17,12,11,13,10,3,14,6,7,9,8,5,16,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "128,811,595,543,647,464,59,690,239,291,411,349,178,772,733",
+                        "startOffsets": "124,794,583,532,634,454,56,676,233,284,402,341,173,756,718",
                         "endColumns": "48,46,50,50,41,77,67,41,50,56,51,60,59,37,37",
-                        "endOffsets": "172,853,641,589,684,537,122,727,285,343,458,405,233,805,766"
+                        "endOffsets": "168,836,629,578,671,527,119,713,279,336,449,397,228,789,751"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
