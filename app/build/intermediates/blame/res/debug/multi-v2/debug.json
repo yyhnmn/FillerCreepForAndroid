@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\cmput301\\lab1\\FillerCreepForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\cmput301\\lab1\\FillerCreepForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,17,12,11,13,10,3,14,6,7,9,8,5,16,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "128,811,595,543,647,464,59,690,239,291,411,349,178,772,733",
+                        "endColumns": "48,46,50,50,41,77,67,41,50,56,51,60,59,37,37",
+                        "endOffsets": "172,853,641,589,684,537,122,727,285,343,458,405,233,805,766"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,151,202,253,295,373,441,483,534,591,643,704,764,802",
+                        "endColumns": "48,46,50,50,41,77,67,41,50,56,51,60,59,37,37",
+                        "endOffsets": "99,146,197,248,290,368,436,478,529,586,638,699,759,797,835"
+                    }
+                }
+            ]
+        }
+    ]
+}
